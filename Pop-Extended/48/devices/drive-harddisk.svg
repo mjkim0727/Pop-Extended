@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="drive-harddisk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="11.21875"
+     inkscape:cx="11.632312"
+     inkscape:cy="20.32312"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#565656;fill-opacity:1;stroke-width:0.264583"
+     id="rect1319"
+     width="8.9958334"
+     height="12.170834"
+     x="1.8520833"
+     y="0.52916664"
+     ry="0.92604166" />
+  <rect
+     style="opacity:1;fill:#acacac;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="8.4666662"
+     height="11.1125"
+     x="2.1166666"
+     y="0.79374999"
+     ry="0.79374999" />
+  <path
+     id="circle808"
+     style="fill:#444444;fill-opacity:1;stroke-width:0.500001"
+     d="M 24 7 A 12 12 0 0 0 12.048828 18.5 L 12 18.5 L 12 19 L 12 25 L 12 29.5 L 12 30 C 12 30.554 12.446 31 13 31 L 18 31 L 24 31 A 12 12 0 0 0 36 19 A 12 12 0 0 0 24 7 z M 24 13 A 6.0000004 6.0000004 0 0 1 30 19 A 6.0000004 6.0000004 0 0 1 24 25 A 6.0000004 6.0000004 0 0 1 18 19 A 6.0000004 6.0000004 0 0 1 24 13 z "
+     transform="scale(0.26458333)" />
+</svg>

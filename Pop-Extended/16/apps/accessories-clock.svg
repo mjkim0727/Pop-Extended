@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="accessories-clock.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="50.125"
+     inkscape:cx="7.9900249"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#f6f6f6;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="3.7041667"
+     height="3.7041667"
+     x="0.26458332"
+     y="0.26458332"
+     ry="1.3229166" />
+  <path
+     d="m 2.1166667,0.52916666 c -0.1465791,0 -0.2645833,0.11800417 -0.2645833,0.26458333 V 1.0583333 c 0,0.1465792 0.1180042,0.2645833 0.2645833,0.2645833 0.1465792,0 0.2645834,-0.1180041 0.2645834,-0.2645833 V 0.79374999 c 0,-0.14657916 -0.1180042,-0.26458333 -0.2645834,-0.26458333 z M 0.79375007,1.8520833 c -0.14657924,0 -0.26458341,0.1180041 -0.26458341,0.2645833 0,0.1465791 0.11800417,0.2645833 0.26458341,0.2645833 H 1.0583334 c 0.1465792,0 0.2645833,-0.1180042 0.2645833,-0.2645833 0,-0.1465792 -0.1180041,-0.2645833 -0.2645833,-0.2645833 z m 2.38124993,0 c -0.1465791,0 -0.2645833,0.1180041 -0.2645833,0.2645833 0,0.1465791 0.1180042,0.2645833 0.2645833,0.2645833 h 0.2645834 c 0.1465791,0 0.2645833,-0.1180042 0.2645833,-0.2645833 0,-0.1465792 -0.1180042,-0.2645833 -0.2645833,-0.2645833 z M 2.1166667,2.9104166 c -0.1465791,0 -0.2645833,0.1180041 -0.2645833,0.2645833 v 0.2645833 c 0,0.1465792 0.1180042,0.2645834 0.2645833,0.2645834 0.1465792,0 0.2645834,-0.1180042 0.2645834,-0.2645834 V 3.1749999 c 0,-0.1465792 -0.1180042,-0.2645833 -0.2645834,-0.2645833 z"
+     style="display:inline;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961;enable-background:new"
+     id="path1829" />
+  <path
+     d="M 3.2762896,1.112875 C 3.2333432,1.0537644 3.1506138,1.0406649 3.091504,1.0836068 L 2.0212269,1.8611775 c -0.1182137,0.0859 -0.1444257,0.2513568 -0.058534,0.3695779 0.08589,0.1182185 0.2513531,0.1444255 0.3695719,0.058531 0.021082,-0.015399 0.039687,-0.033943 0.055301,-0.054883 L 3.2470129,1.2976467 c 0.059115,-0.042936 0.072213,-0.1256717 0.02927,-0.1847823 z"
+     style="display:inline;vector-effect:none;fill:#2b2928;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961;enable-background:new"
+     id="path2048" />
+  <path
+     d="m 2.6949394,2.891708 c 0.06675,-0.02971 0.096762,-0.1079182 0.067046,-0.174662 L 2.4391368,1.991921 C 2.3797024,1.8584281 2.2233056,1.7983915 2.0898141,1.8578249 1.9563257,1.9172662 1.896287,2.0736587 1.9557206,2.2071489 c 0.015547,0.034687 0.038374,0.065619 0.066957,0.090681 l 0.497598,0.5268354 c 0.029717,0.066744 0.1079169,0.096761 0.1746617,0.067043 z"
+     style="display:inline;vector-effect:none;fill:#474341;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961;enable-background:new"
+     id="path2267" />
+  <path
+     id="rect1151"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.999999"
+     d="M 6 1 C 3.2300001 1 1 3.2300001 1 6 L 1 10 C 1 12.77 3.2300001 15 6 15 L 10 15 C 12.77 15 15 12.77 15 10 L 15 6 C 15 3.2300001 12.77 1 10 1 L 6 1 z M 6 2 L 10 2 C 12.216 2 14 3.7840001 14 6 L 14 10 C 14 12.216 12.216 14 10 14 L 6 14 C 3.7840001 14 2 12.216 2 10 L 2 6 C 2 3.7840001 3.7840001 2 6 2 z "
+     transform="scale(0.26458333)" />
+</svg>

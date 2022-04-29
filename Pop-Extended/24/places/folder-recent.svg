@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3500002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="folder-recent.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="24px"
+     inkscape:zoom="33.375"
+     inkscape:cx="12.014981"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#ffce51;fill-opacity:1;stroke-width:0.264583"
+     id="rect846"
+     width="5.8208332"
+     height="5.8208332"
+     x="0.26458335"
+     y="0.26458335"
+     ry="0.5291667" />
+  <path
+     id="rect1058"
+     style="opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+     d="m 0.79375002,0.26458334 c -0.29315837,0 -0.52916668,0.23600831 -0.52916668,0.52916668 V 5.5562501 c 0,0.2931584 0.23600831,0.5291667 0.52916668,0.5291667 H 5.5562501 c 0.2931584,0 0.5291667,-0.2360083 0.5291667,-0.5291667 V 0.79375002 c 0,-0.29315837 -0.2360083,-0.52916668 -0.5291667,-0.52916668 z m 0,0.26458334 H 5.5562501 c 0.1465792,0 0.2645834,0.11800417 0.2645834,0.26458334 V 5.5562501 c 0,0.1465792 -0.1180042,0.2645834 -0.2645834,0.2645834 H 0.79375002 c -0.14657917,0 -0.26458334,-0.1180042 -0.26458334,-0.2645834 V 0.79375002 c 0,-0.14657917 0.11800417,-0.26458334 0.26458334,-0.26458334 z" />
+  <path
+     id="path13834"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#33302f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 2.38125,1.0583333 V 1.3229166 H 2.1166667 c -0.4351602,0 -0.79375,0.3585898 -0.79375,0.79375 v 2.1166667 c 0,0.4351602 0.3585898,0.79375 0.79375,0.79375 H 2.38125 v 0.2645833 h 1.5875 V 5.0270833 h 0.2645833 c 0.4351602,0 0.79375,-0.3585898 0.79375,-0.79375 V 2.1166666 c 0,-0.4351602 -0.3585898,-0.79375 -0.79375,-0.79375 H 3.96875 V 1.0583333 Z m -0.2645833,0.79375 h 2.1166666 c 0.1511565,0 0.2645834,0.1134269 0.2645834,0.2645833 v 2.1166667 c 0,0.1511564 -0.1134269,0.2645833 -0.2645834,0.2645833 H 2.1166667 c -0.1511565,0 -0.2645833,-0.1134269 -0.2645833,-0.2645833 V 2.1166666 c 0,-0.1511564 0.1134268,-0.2645833 0.2645833,-0.2645833 z M 2.6458334,2.1166666 V 3.3279622 L 3.8364583,4.0152587 4.1010417,3.5568887 3.175,3.0220377 V 2.1166666 Z"
+     sodipodi:nodetypes="ccssssccccsssscccsssssssssccccccc" />
+</svg>
