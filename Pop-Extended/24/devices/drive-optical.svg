@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="drive-optical.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="16.208333"
+     inkscape:cx="3.7943445"
+     inkscape:cy="1.9742931"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#5b5b5b;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="5.2916665"
+     height="6.3499999"
+     x="0.52916664"
+     y="0"
+     ry="0.66145831" />
+  <rect
+     style="opacity:1;fill:#acacac;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="rect977"
+     width="4.7624998"
+     height="5.8208332"
+     x="0.79374999"
+     y="0.26458332"
+     ry="0.52916664" />
+  <path
+     d="m 3.175,1.0583333 c -0.8767524,0 -1.5875,0.7107479 -1.5875,1.5874999 0,0.8767519 0.7107476,1.5874999 1.5875,1.5874999 0.8767524,0 1.5874999,-0.710748 1.5874999,-1.5874999 0,-0.876752 -0.7107475,-1.5874999 -1.5874999,-1.5874999 z m 0,1.0583333 c 0.2922508,0 0.5291666,0.2369159 0.5291666,0.5291666 0,0.2922505 -0.2369158,0.5291666 -0.5291666,0.5291666 -0.2922508,0 -0.5291667,-0.2369161 -0.5291667,-0.5291666 0,-0.2922507 0.2369159,-0.5291666 0.5291667,-0.5291666 z"
+     style="stroke-width:0.132292;fill:#444444;fill-opacity:1"
+     id="path1698" />
+</svg>
