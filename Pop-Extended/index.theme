@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Pop Extended
 Comment=Pop!_OS icon theme
-Inherits=Pop,Yaru,Humanity,hicolor
+Inherits=Pop,Papirus,Yaru,Humanity,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64
@@ -208,40 +208,52 @@ Context=Status
 Size=32
 Type=Fixed
 
+# 48
+
+[48/apps]
+Context=Applications
+Size=48
+Type=Fixed
+
+[48/devices]
+Context=Devices
+Size=48
+Type=Fixed
+
 # Scalable
 
 [scalable/apps]
 Context=Applications
-Size=48
-MinSize=48
+Size=64
+MinSize=64
 MaxSize=512
 Type=Scalable
 
 [scalable/devices]
 Context=Devices
-Size=48
-MinSize=48
+Size=64
+MinSize=64
 MaxSize=512
 Type=Scalable
 
 [scalable/emblems]
 Context=Emblems
-Size=48
-MinSize=48
+Size=64
+MinSize=64
 MaxSize=512
 Type=Scalable
 
 [scalable/mimetypes]
 Context=MimeTypes
-Size=48
-MinSize=48
+Size=64
+MinSize=64
 MaxSize=512
 Type=Scalable
 
 [scalable/places]
 Context=Places
-Size=48
-MinSize=48
+Size=64
+MinSize=64
 MaxSize=256
 Type=Scalable
 
@@ -539,6 +551,20 @@ Type=Fixed
 [32@2x/status]
 Context=Status
 Size=32
+Scale=2
+Type=Fixed
+
+# 48@2x
+
+[48@2x/apps]
+Context=Applications
+Size=48
+Scale=2
+Type=Fixed
+
+[48@2x/devices]
+Context=Devices
+Size=48
 Scale=2
 Type=Fixed
 

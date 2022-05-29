@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="internet-news-reader.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="35.443727"
+     inkscape:cx="1.8621067"
+     inkscape:cy="10.622472"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#6f4400;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="3.7041667"
+     height="3.7041667"
+     x="0.26458332"
+     y="0.26458332"
+     ry="0.39687499" />
+  <rect
+     style="fill:#de8800;stroke-width:0.264583;fill-opacity:1"
+     id="rect3313"
+     width="3.175"
+     height="3.175"
+     x="0.52916664"
+     y="0.52916664"
+     ry="0.26458332" />
+  <path
+     d="m 0.52916666,1.8520833 v 0.2645833 c 0.87675214,0 1.58749994,0.7107475 1.58749994,1.5875 h 0.2645833 c 0,-1.0228765 -0.829206,-1.8520833 -1.85208324,-1.8520833 z m 0,0.5291666 v 0.2645834 c 0.58450134,0 1.05833324,0.4738317 1.05833324,1.0583333 h 0.2645834 c 0,-0.7306257 -0.5922899,-1.3229167 -1.32291664,-1.3229167 z m 0,0.5291667 v 0.2645833 c 0.29225081,0 0.52916664,0.2369159 0.52916664,0.5291667 h 0.2645833 c 0,-0.4383749 -0.35537399,-0.79375 -0.79374994,-0.79375 z m 0,0.5291666 c 0,0.1465792 0.11800416,0.2645834 0.26458333,0.2645834 0,-0.1461241 -0.11845793,-0.2645834 -0.26458333,-0.2645834 z"
+     style="fill:#f5f5f5;stroke-width:0.264583"
+     id="path1688" />
+</svg>
