@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="aisleriot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="26.684314"
+     inkscape:cx="11.429936"
+     inkscape:cy="14.353002"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#7b7b7b;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="5.2916665"
+     height="6.3499999"
+     x="0.52916664"
+     y="0"
+     ry="0.52916664" />
+  <rect
+     style="opacity:1;fill:#f6f6f6;fill-opacity:1;stroke-width:0.264583"
+     id="rect3620"
+     width="4.7624998"
+     height="5.8208332"
+     x="0.79374999"
+     y="0.26458332"
+     ry="0.39687499" />
+  <path
+     d="m 2.3232346,1.5874836 c -0.5508231,0 -1.000318,0.4431454 -1.000318,0.9921165 0,0.2857296 0.1206414,0.5463256 0.3140379,0.7275521 L 3.1502629,4.7625229 4.7125155,3.3071522 c 0.2009881,-0.1885585 0.314874,-0.4519607 0.3145671,-0.7275521 0,-0.5489711 -0.4497593,-0.9921165 -1.0003179,-0.9921165 -0.3629821,0 -0.6772849,0.1907509 -0.8518973,0.4796552 C 2.9952844,1.7684171 2.671779,1.5862129 2.3232346,1.5874836 Z"
+     style="fill:#cf3b00;fill-opacity:1;stroke-width:0.264564"
+     id="path852"
+     sodipodi:nodetypes="csccccscc" />
+</svg>

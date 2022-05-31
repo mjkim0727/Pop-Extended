@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="system-users.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="50.0625"
+     inkscape:cx="8.0099875"
+     inkscape:cy="8.0099875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <circle
+     style="fill:#245c63;stroke-width:0.264583;fill-opacity:1"
+     id="path934"
+     cx="2.1166666"
+     cy="2.1166666"
+     r="2.1166666" />
+  <circle
+     style="fill:#48b9c7;fill-opacity:1;stroke-width:0.132291"
+     id="path4871"
+     cx="2.1166666"
+     cy="2.1166666"
+     r="1.8520833" />
+  <path
+     d="m 2.1166666,0.52916666 c -0.438376,0 -0.79375,0.35537516 -0.79375,0.79375004 0,0.4383749 0.355374,0.79375 0.79375,0.79375 0.4383759,0 0.7937499,-0.3553751 0.7937499,-0.79375 0,-0.43837488 -0.355374,-0.79375004 -0.7937499,-0.79375004 z m 0,1.85208334 c -1.0583323,0 -1.0583334,0.8598958 -1.0583334,0.8598958 V 3.4395833 H 3.1749999 V 3.2411458 c 0,0 -1.1e-6,-0.8598958 -1.0583333,-0.8598958 z"
+     style="text-indent:0;text-decoration-line:none;text-transform:none;fill:#ffffff;stroke-width:0.264583"
+     id="path357" />
+</svg>

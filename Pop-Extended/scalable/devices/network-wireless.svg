@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="network-wireless.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="12.296875"
+     inkscape:cx="32.040661"
+     inkscape:cy="31.959339"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 8.4666666,3.1749999 C 5.4811318,3.1751925 2.6345561,4.4363763 0.62864999,6.6476561 L 8.4666666,13.758598 16.304683,6.6476561 C 14.298777,4.4363763 11.452201,3.1751925 8.4666666,3.1749999 Z"
+     style="fill:#463e39;stroke-width:0.264583"
+     id="path20477" />
+  <path
+     d="M 8.4666666,5.8208332 C 6.2275052,5.8209946 4.092572,6.7669072 2.5881541,8.4253915 L 8.4666666,13.758333 14.345179,8.4253915 C 12.840761,6.7669072 10.705828,5.8209946 8.4666666,5.8208332 Z"
+     style="fill:#9f9792;stroke-width:0.264583"
+     id="path20505" />
+  <path
+     d="m 8.4666666,8.4666665 c -1.4927469,6.24e-5 -2.9160317,0.630605 -3.9190083,1.7361955 l 3.9190083,3.555471 3.9190084,-3.555471 C 11.382698,9.0972715 9.9594134,8.4667289 8.4666666,8.4666665 Z"
+     style="fill:#463e39;stroke-width:0.264583"
+     id="path20533" />
+  <path
+     d="m 8.4666666,11.1125 c -0.7463735,3.1e-5 -1.4580158,0.315302 -1.9595042,0.868098 l 1.9595042,1.777735 1.9595044,-1.777735 C 9.9246824,11.427802 9.21304,11.112531 8.4666666,11.1125 Z"
+     style="fill:#9f9792;stroke-width:0.264583"
+     id="path20561" />
+</svg>
