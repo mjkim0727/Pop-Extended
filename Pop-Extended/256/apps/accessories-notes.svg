@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733336"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="accessories-notes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.1462864"
+     inkscape:cx="-12.649544"
+     inkscape:cy="69.354396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1099"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false" />
+  <defs
+     id="defs1096" />
+  <rect
+     style="opacity:1;fill:#7f6728;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round"
+     id="rect934"
+     width="55.033333"
+     height="55.033333"
+     x="6.3499999"
+     y="6.3499999"
+     ry="4.3656249" />
+  <rect
+     style="fill:#ffce51;fill-opacity:1;stroke-width:0.529167"
+     id="rect873"
+     width="54.504166"
+     height="53.445835"
+     x="6.6145835"
+     y="6.6145835"
+     ry="4.2333336" />
+  <path
+     id="path3456"
+     style="fill:#bf9b3c;fill-opacity:1;stroke-width:0.264583"
+     d="m 61.118751,43.127084 -10.583333,5.820833 -6.350001,11.1125 h 12.7 c 2.345265,0 4.233334,-1.888069 4.233334,-4.233333 z"
+     sodipodi:nodetypes="cccssc" />
+  <path
+     d="M 44.185417,60.060417 61.118751,43.127084 h -12.7 c -2.345265,0 -4.233334,1.888068 -4.233334,4.233332 z"
+     style="fill:#fffa7d;fill-opacity:1;stroke-width:0.264583"
+     id="path4082" />
+</svg>

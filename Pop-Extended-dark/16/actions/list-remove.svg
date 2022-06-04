@@ -1,1 +1,47 @@
-<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g color='#bebebe'><path d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M4 7a1 1 0 0 0-1 1 1 1 0 0 0 1 1h8a1 1 0 0 0 1-1 1 1 0 0 0-1-1z' fill='#f2f2f2'/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="list-remove.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="55.4375"
+     inkscape:cx="8"
+     inkscape:cy="8.0180383"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <g
+     color="#bebebe"
+     id="g6">
+    <path
+       d="M0 0h16v16H0z"
+       fill="gray"
+       fill-opacity=".01"
+       id="path2" />
+    <path
+       d="M 2,7 C 1.4477153,7 1,7.4477153 1,8 1,8.5522847 1.4477153,9 2,9 H 14 C 14.552285,9 15,8.5522847 15,8 15,7.4477153 14.552285,7 14,7 Z"
+       fill="#f2f2f2"
+       id="path4"
+       sodipodi:nodetypes="sssssss" />
+  </g>
+</svg>

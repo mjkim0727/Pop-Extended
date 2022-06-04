@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="rhythmbox.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="12.96875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#6f6f6f;fill-opacity:1;stroke-width:0.264583"
+     id="rect845"
+     width="12.170833"
+     height="15.875"
+     x="2.3812499"
+     y="0.79374999"
+     ry="1.190625" />
+  <rect
+     style="opacity:1;fill:#dedede;fill-opacity:1;stroke-width:0.264583"
+     id="rect1249"
+     width="11.641666"
+     height="14.816667"
+     x="2.6458333"
+     y="1.0583333"
+     ry="1.0583333" />
+  <circle
+     style="fill:#333333;fill-opacity:1;stroke-width:0.996152"
+     id="path1430"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="4.2333331" />
+  <circle
+     style="fill:#faa41a;fill-opacity:1;stroke-width:0.740832"
+     id="path1556"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="3.7041667" />
+  <path
+     id="rect975"
+     style="fill:#845914;stroke-width:0.381592"
+     d="m 8.4666662,6.3499999 c 1.0260538,0 1.8520828,0.8260292 1.8520828,1.8520835 v 0.2645833 c 0,1.0260543 -0.826029,1.8520833 -1.8520828,1.8520833 -1.0260542,0 -1.8520834,-0.826029 -1.8520834,-1.8520833 V 8.2020834 c 0,-1.0260543 0.8260292,-1.8520835 1.8520834,-1.8520835 z"
+     sodipodi:nodetypes="sssssss" />
+  <circle
+     style="fill:#333333;fill-opacity:1;stroke-width:0.79375"
+     id="path1814"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="1.5875" />
+</svg>
