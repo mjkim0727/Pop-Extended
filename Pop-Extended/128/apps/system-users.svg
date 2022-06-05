@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="system-users.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.294667"
+     inkscape:cx="-4.4010518"
+     inkscape:cy="41.27883"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1099"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1096" />
+  <rect
+     style="opacity:1;fill:#245c63;fill-opacity:1;stroke-width:0.529166"
+     id="rect1196"
+     width="31.75"
+     height="32.543751"
+     x="1.0583334"
+     y="1.0583334"
+     ry="15.875" />
+  <circle
+     style="opacity:1;fill:#48b9c7;fill-opacity:1;stroke-width:0.536019"
+     id="path6320"
+     cx="16.933334"
+     cy="16.933332"
+     r="15.610416" />
+  <path
+     d="m 16.933598,9.5250001 c 1.753394,0 3.175,1.4216059 3.175,3.1749999 0,1.753394 -1.421606,3.175 -3.175,3.175 -1.753394,0 -3.175,-1.421606 -3.175,-3.175 0,-1.753394 1.421606,-3.1749999 3.175,-3.1749999 z m 0,8.4666669 c 6.349736,-0.0032 6.349736,4.236773 6.349736,4.236773 v 1.058333 H 10.583333 V 22.22844 c 0,0 0,-4.233333 6.350265,-4.236773 z"
+     style="color:#000000;text-indent:0;text-decoration-line:none;text-transform:none;fill:#ffffff;stroke-width:0.264583"
+     id="path3583" />
+</svg>

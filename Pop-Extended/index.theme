@@ -200,6 +200,11 @@ Context=Applications
 Size=128
 Type=Fixed
 
+[128/devices]
+Context=Devices
+Size=128
+Type=Fixed
+
 [128/mimetypes]
 Context=Mimetypes
 Size=128
