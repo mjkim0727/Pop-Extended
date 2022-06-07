@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733336"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="org.kde.kalendar"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.2925728"
+     inkscape:cx="101.19635"
+     inkscape:cy="143.50689"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1099"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false" />
+  <defs
+     id="defs1096" />
+  <rect
+     style="opacity:1;fill:#767676;fill-opacity:1;stroke-width:0.529167"
+     id="rect7227"
+     width="59.266666"
+     height="46.566666"
+     x="4.2333336"
+     y="14.816667"
+     ry="4.2333336" />
+  <rect
+     style="fill:#ededed;fill-opacity:1;stroke-width:0.529167"
+     id="rect873"
+     width="58.737499"
+     height="44.979168"
+     x="4.4979167"
+     y="15.08125"
+     ry="4.1010418" />
+  <path
+     d="m 8.5989566,15.08125 c -2.2719745,0 -4.1010418,1.829067 -4.1010418,4.101042 v 7.276042 H 63.235416 v -7.276042 c 0,-2.271975 -1.829067,-4.101042 -4.101042,-4.101042 z"
+     style="fill:#3daee9;fill-opacity:1;stroke-width:0.264583"
+     id="path2799" />
+  <path
+     d="m 11.641667,30.691667 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.349999 v -6.35 z m 9.525,0 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.35 v -6.35 z m -38.1,9.525 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.349999 v -6.35 z m 19.05,0 v 6.35 h 6.35 v -6.35 z m -38.1,8.995834 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.349999 v -6.35 z m 9.525,0 v 6.35 h 6.35 v -6.35 z m 9.525,0 v 6.35 h 6.35 v -6.35 z"
+     style="opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+     id="path1045" />
+  <circle
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.41111"
+     id="path34682"
+     cx="43.391666"
+     cy="43.391666"
+     r="4.2333336" />
+  <circle
+     style="fill:#3daee9;fill-opacity:1;stroke-width:1.41111"
+     id="path6926"
+     cx="43.391666"
+     cy="42.862499"
+     r="4.2333336" />
+</svg>
