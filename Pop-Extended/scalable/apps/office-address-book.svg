@@ -7,8 +7,8 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="office-contacts.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="office-address-book.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,14 +26,16 @@
      units="px"
      height="48px"
      inkscape:zoom="12.15625"
-     inkscape:cx="31.958869"
+     inkscape:cx="32.123393"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <rect
@@ -74,7 +76,7 @@
      width="2.1166668"
      height="2.6458333"
      x="13.229165"
-     y="5.0270834"
+     y="4.7624998"
      ry="0.52916664" />
   <rect
      style="opacity:1;fill:#73c48f;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
@@ -82,7 +84,7 @@
      width="2.1166668"
      height="2.6458333"
      x="13.229165"
-     y="5.2917247"
+     y="5.0271411"
      ry="0.52916664" />
   <rect
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
@@ -90,7 +92,7 @@
      width="2.1166668"
      height="2.645833"
      x="13.229165"
-     y="7.6729169"
+     y="7.1437497"
      ry="0.52916664" />
   <rect
      style="opacity:1;fill:#b84acb;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
@@ -98,7 +100,7 @@
      width="2.1166668"
      height="2.6458335"
      x="13.229165"
-     y="7.9375582"
+     y="7.408391"
      ry="0.52916664" />
   <rect
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
@@ -106,7 +108,7 @@
      width="2.1166668"
      height="2.645833"
      x="13.229165"
-     y="10.318748"
+     y="9.5249996"
      ry="0.52916664" />
   <rect
      style="opacity:1;fill:#f15d22;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
@@ -114,7 +116,7 @@
      width="2.1166668"
      height="2.645834"
      x="13.229165"
-     y="10.583389"
+     y="9.7896404"
      ry="0.52916664" />
   <rect
      style="fill:#245c63;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"

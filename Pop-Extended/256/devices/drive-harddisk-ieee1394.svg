@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733336"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="drive-harddisk-ieee1394.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.2925728"
+     inkscape:cx="29.661"
+     inkscape:cy="99.451587"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1099"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false" />
+  <defs
+     id="defs1096" />
+  <rect
+     style="fill:#565656;fill-opacity:1;stroke-width:0.529167"
+     id="rect873"
+     width="47.095833"
+     height="60.854168"
+     x="10.31875"
+     y="3.4395831"
+     ry="2.2489583" />
+  <rect
+     style="fill:#acacac;fill-opacity:1;stroke-width:0.264583"
+     id="rect4469"
+     width="46.566666"
+     height="59.266666"
+     x="10.583333"
+     y="3.7041667"
+     ry="2.1166668" />
+  <path
+     d="m 25.087238,12.751594 -5.987232,5.98723 1.497068,1.496563 5.986714,-5.986727 z m 19.362643,0.321443 -5.986714,5.986701 5.98723,5.986727 5.986717,-5.986727 z m -16.369544,2.672186 -5.986714,5.9867 1.49655,1.497066 5.986714,-5.986701 z m 5.78621,5.421365 c -3.507007,0 -6.35,2.842993 -6.35,6.35 0,3.507008 2.842993,6.350001 6.35,6.350001 3.507008,0 6.35,-2.842993 6.35,-6.350001 0,-3.507007 -2.842992,-6.35 -6.35,-6.35 z m 0,2.116667 c 2.338007,0 4.233334,1.895327 4.233334,4.233333 0,2.338007 -1.895327,4.233334 -4.233334,4.233334 -2.338006,0 -4.233333,-1.895327 -4.233333,-4.233334 0,-2.338006 1.895327,-4.233333 4.233333,-4.233333 z m -4.233333,14.816667 v 2.116667 h 8.466667 v -2.116667 z m 0,4.233333 v 2.116667 h 8.466667 v -2.116667 z"
+     id="path4556"
+     style="fill:#444444;fill-opacity:1;stroke-width:0.264583" />
+</svg>

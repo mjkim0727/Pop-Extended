@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="drive-harddisk-multi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="6.359375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#565656;fill-opacity:1;stroke-width:0.264583"
+     id="rect288"
+     width="23.812502"
+     height="28.310415"
+     x="3.96875"
+     y="4.4979167"
+     ry="2.2489583" />
+  <rect
+     style="fill:#acacac;fill-opacity:1;stroke-width:0.264583"
+     id="rect951"
+     width="23.283333"
+     height="26.987499"
+     x="4.2333331"
+     y="4.7624998"
+     ry="2.1166666" />
+  <rect
+     style="opacity:1;fill:#565656;fill-opacity:1;stroke-width:0.529167"
+     id="rect479"
+     width="23.8125"
+     height="28.310415"
+     x="6.0854168"
+     y="1.8520833"
+     ry="2.2489583" />
+  <rect
+     style="opacity:1;fill:#acacac;fill-opacity:1;stroke-width:0.529167"
+     id="rect3992"
+     width="23.283333"
+     height="26.987499"
+     x="6.3499999"
+     y="2.1166666"
+     ry="2.1166666" />
+  <path
+     d="m 17.991667,6.3500004 c -4.091509,0 -7.408334,3.316824 -7.408334,7.4083326 0.0054,0.244108 0,6.35 0,6.35 0,0.586317 0.472017,1.058333 1.058334,1.058333 0,0 6.105892,-0.0054 6.35,0 4.09151,0 7.408333,-3.316823 7.408333,-7.408333 0,-4.0915086 -3.316823,-7.4083326 -7.408333,-7.4083326 z"
+     id="path13310"
+     style="fill:#444444;fill-opacity:1;stroke-width:0.264583" />
+  <circle
+     style="opacity:1;fill:#acacac;fill-opacity:1;stroke-width:0.926042"
+     id="path11835"
+     cx="17.991665"
+     cy="13.758334"
+     r="3.7041667" />
+</svg>
