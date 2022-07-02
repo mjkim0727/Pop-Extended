@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22.000001"
+   version="1.1"
+   id="svg473"
+   sodipodi:docname="battery-full.svg"
+   width="22"
+   height="22"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs477" />
+  <sodipodi:namedview
+     id="namedview475"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.146268"
+     inkscape:cx="3.5576254"
+     inkscape:cy="6.9402856"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg473" />
+  <path
+     color="#dddddd"
+     d="M 22,0 V 22 H 0 V 0 Z"
+     fill="#808080"
+     fill-opacity="0.01"
+     id="path469"
+     style="stroke-width:1.375" />
+  <path
+     d="M 11,3 A 2,2 0 0 0 9,5 H 8 A 2,2 0 0 0 6,7 v 9 a 2,2 0 0 0 2,2 h 6 a 2,2 0 0 0 2,-2 V 7 A 2,2 0 0 0 14,5 L 13,5.002 V 5 A 2,2 0 0 0 11,3 Z"
+     fill="#f2f2f2"
+     id="path471" />
+</svg>

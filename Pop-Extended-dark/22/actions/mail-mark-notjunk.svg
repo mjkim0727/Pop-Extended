@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="mail-mark-notjunk.svg"
+   width="22"
+   height="22"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.125"
+     inkscape:cx="-4.5360825"
+     inkscape:cy="23.340206"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     color="#000000"
+     id="g6"
+     transform="scale(1.375)">
+    <path
+       d="M 0,0 H 16 V 16 H 0 Z"
+       fill="#808080"
+       fill-opacity="0.01"
+       xml:space="preserve"
+       id="path2" />
+    <path
+       d="M 5.9769464,2.9090909 5.7492938,3.1134691 3.1127418,5.7500211 2.9090909,5.9776737 v 4.0446523 l 0.2036509,0.227653 2.636552,2.636552 0.2276526,0.204378 h 4.0453796 l 0.227653,-0.204378 2.636552,-2.636552 0.204378,-0.227653 V 5.978401 L 12.886531,5.7507484 10.249979,3.1141965 10.022326,2.9098182 H 6.2722402 Z m 4.8948946,2.6452799 a 0.72732468,0.72732468 0 0 1 0.514946,0.2131061 0.72732468,0.72732468 0 0 1 0,1.0284371 L 7.2715843,10.909662 4.7004916,8.3385696 a 0.72732468,0.72732468 0 0 1 0,-1.0284371 0.72732468,0.72732468 0 0 1 1.0284371,0 l 1.5426556,1.5419284 3.0860387,-3.084584 a 0.72732468,0.72732468 0 0 1 0.514218,-0.2131061 z"
+       fill="#f2f2f2"
+       style="text-indent:0;text-decoration-line:none;text-transform:none;stroke-width:0.727325"
+       id="path4" />
+  </g>
+</svg>

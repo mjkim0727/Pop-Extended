@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="org.gnome.Adwaita1.Demo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="24.071094"
+     inkscape:cx="12.670799"
+     inkscape:cy="8.4333516"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#48b9c7;fill-opacity:1;stroke-width:0.529153"
+     id="rect6085"
+     width="4.799418"
+     height="4.799418"
+     x="2.0904191"
+     y="-2.399709"
+     ry="0.52916664"
+     transform="rotate(45)" />
+  <path
+     d="M 3.1749078,0 C 3.0397057,0 2.9045036,0.051858 2.800787,0.155575 L 0.15548287,2.8008791 c -0.20731049,0.2063353 -0.20731049,0.5419064 0,0.7482417 L 2.800787,6.1944249 c 0.2063353,0.2073106 0.5419063,0.2073106 0.7482416,0 L 6.1943328,3.5491208 c 0.2073105,-0.2063353 0.2073105,-0.5419064 0,-0.7482417 L 3.5490286,0.155575 C 3.4499999,0.0559877 3.315351,-4.8996784e-6 3.1749078,0 Z m 0,0.26458333 c 0.067733,0 0.1352021,0.0256646 0.1870604,0.0775229 L 6.0078015,2.9879395 c 0.1035818,0.1031981 0.1035818,0.2709228 0,0.3741209 L 3.3619682,6.0078937 c -0.1031981,0.1035817 -0.2709227,0.1035817 -0.3741208,0 L 0.34201412,3.3620604 c -0.10358166,-0.1031981 -0.10358166,-0.2709228 0,-0.3741209 L 2.9878474,0.34210625 c 0.049541,-0.0497214 0.116871,-0.0776247 0.1870604,-0.0775229 z"
+     style="fill-opacity:1;stroke-width:0.264583;fill:#000000;opacity:0.5"
+     id="path5579" />
+  <path
+     d="M 1.3228245,3.1749539 H 3.1749078 V 5.0270371 Z"
+     style="fill:#ffffff;stroke-width:0.740834;stroke-linejoin:round"
+     id="path34713" />
+  <path
+     d="m 3.1749078,3.1749537 1.0583333,-2e-7 v 1.058334 z"
+     style="opacity:0.4;fill:#ffffff;stroke-width:0.705556;stroke-linejoin:round"
+     id="path34685"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 3.1749078,1.8520373 1.3229166,-3e-7 -1.3229166,1.3229169 z"
+     style="opacity:0.75;fill:#ffffff;stroke-width:0.661459;stroke-linejoin:round"
+     id="path34741"
+     sodipodi:nodetypes="cccc" />
+</svg>

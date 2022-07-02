@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="audio-input-microphone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="2.8046875"
+     inkscape:cx="10.339833"
+     inkscape:cy="-1.0696379"
+     inkscape:window-width="1846"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#565656;fill-opacity:1;stroke-width:0.529167"
+     id="rect1581"
+     width="19.579166"
+     height="1.8520833"
+     x="7.1437497"
+     y="19.314583"
+     ry="0.66145831" />
+  <rect
+     style="opacity:1;fill:#acacac;fill-opacity:1;stroke-width:1.05833"
+     id="rect20137"
+     width="19.049999"
+     height="1.0583333"
+     x="7.4083333"
+     y="19.579166"
+     ry="0.52916664" />
+  <rect
+     style="opacity:1;fill:#909090;fill-opacity:1;stroke-width:0.366346"
+     id="rect1319"
+     width="9.5249996"
+     height="24.341665"
+     x="12.170833"
+     y="2.1166666"
+     ry="4.7624998" />
+  <rect
+     style="opacity:1;fill:#343434;fill-opacity:1;stroke-width:4.4979"
+     id="rect24547"
+     width="8.9958334"
+     height="23.018749"
+     x="12.435416"
+     y="3.175"
+     ry="4.4979167" />
+  <path
+     d="m 9.5249998,17.727083 c -0.4352396,0 -0.79375,0.35851 -0.79375,0.79375 v 3.704166 c 0,4.258929 3.2534912,7.76346 7.4083332,8.163327 v 1.626256 c 0,0.439738 0.354013,0.79375 0.79375,0.79375 0.439738,0 0.79375,-0.354012 0.79375,-0.79375 v -1.626256 c 4.154842,-0.399867 7.408333,-3.904398 7.408333,-8.163327 v -3.704166 c -0.003,-0.500941 -0.461536,-0.875197 -0.952912,-0.77773 -0.368287,0.07745 -0.632606,0.401392 -0.634588,0.77773 v 2.645833 c 0,3.656274 -2.958308,6.614583 -6.614583,6.614583 -3.656274,0 -6.614583,-2.958309 -6.614583,-6.614583 v -2.645833 c 0,-0.43524 -0.3585106,-0.79375 -0.7937502,-0.79375 z"
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#444444;fill-opacity:1;stroke-width:0.264583"
+     id="path1009" />
+  <path
+     d="m 9.5249999,17.991666 c -0.2931583,0 -0.5291667,0.236008 -0.5291667,0.529167 v 2.645833 c 0.00892,4.171816 3.2457878,7.624765 7.4083328,7.902877 v 2.15129 c 0,0.293158 0.236009,0.529166 0.529167,0.529166 0.293159,0 0.529167,-0.236008 0.529167,-0.529166 v -2.15129 c 4.162546,-0.278112 7.399416,-3.731061 7.408333,-7.902877 v -2.645833 c 0,-0.293159 -0.236008,-0.529167 -0.529166,-0.529167 -0.293159,0 -0.529167,0.236008 -0.529167,0.529167 v 2.645833 c 0,3.799259 -3.079908,6.879167 -6.879167,6.879167 -3.799259,0 -6.879167,-3.079908 -6.879167,-6.879167 v -2.645833 c 0,-0.293159 -0.2360078,-0.529167 -0.5291661,-0.529167 z"
+     style="fill:#888888;fill-opacity:1;stroke-width:0.264583"
+     id="path2053" />
+</svg>

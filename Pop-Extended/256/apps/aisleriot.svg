@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733332"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="aisleriot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="2.2483786"
+     inkscape:cx="111.19124"
+     inkscape:cy="124.97895"
+     inkscape:window-width="1846"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#777777;fill-opacity:1;stroke-width:0.529167"
+     id="rect479"
+     width="47.095833"
+     height="60.854164"
+     x="10.318749"
+     y="3.4395833"
+     ry="2.2489583" />
+  <rect
+     style="opacity:1;fill:#efefef;fill-opacity:1;stroke-width:0.529167"
+     id="rect3992"
+     width="46.566666"
+     height="59.266666"
+     x="10.583333"
+     y="3.7041664"
+     ry="2.1166666" />
+  <path
+     d="m 28.512712,23.812541 c -3.462316,0 -6.287712,2.785488 -6.287712,6.236166 0,1.796012 0.75832,3.434044 1.973952,4.573184 l 9.512224,9.298945 9.819873,-9.298945 c 1.263352,-1.185224 1.979208,-2.840896 1.97728,-4.573184 0,-3.450678 -2.82706,-6.236166 -6.287712,-6.236166 -2.2816,0 -4.25722,1.199008 -5.354781,3.014976 -1.128808,-1.87768 -3.162272,-3.02296 -5.353124,-3.014976 z"
+     style="fill:#cf3b00;fill-opacity:1;stroke-width:1.66297"
+     id="path852"
+     sodipodi:nodetypes="csccccscc" />
+</svg>

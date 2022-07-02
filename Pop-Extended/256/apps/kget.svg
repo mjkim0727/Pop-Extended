@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733336"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="kget.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1"
+     inkscape:cx="102"
+     inkscape:cy="89"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1099"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1096" />
+  <rect
+     style="opacity:1;fill:#7b7b7b;fill-opacity:1;stroke-width:1.05833"
+     id="rect1196"
+     width="63.5"
+     height="64.558334"
+     x="2.1166668"
+     y="2.1166668"
+     ry="31.75" />
+  <circle
+     style="opacity:1;fill:#f6f6f6;fill-opacity:1;stroke-width:1.12448"
+     id="path1427"
+     cx="33.866669"
+     cy="33.866669"
+     r="31.485416" />
+  <path
+     id="path358"
+     style="fill:#3daee9;fill-opacity:1;stroke-width:1.44051"
+     d="m 29.80972,16.933333 v 12.964583 h -5.401907 l 9.003182,14.40509 h 1.440511 l 9.003178,-14.40509 H 38.452777 V 16.933333 Z m -6.482288,30.250693 c -1.197062,0 -2.160765,0.9637 -2.160765,2.160762 0,1.197061 0.963703,2.160765 2.160765,2.160765 h 21.607637 c 1.197057,0 2.160765,-0.963704 2.160765,-2.160765 0,-1.197062 -0.963708,-2.160762 -2.160765,-2.160762 z" />
+</svg>

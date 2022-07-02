@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="fcitx-hangul.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.147339"
+     inkscape:cx="6.0067628"
+     inkscape:cy="18.661787"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#f2f2f2; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  </defs>
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 5,3 C 3.892,3 3,3.892 3,5 v 12 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 5 C 19,3.892 18.108,3 17,3 Z m 3,2 h 2 V 6 H 8 Z m 6,1 h 1 v 3 h 2 v 1 h -2 v 4 H 14 Z M 6,7 h 6 V 8 H 6 Z m 3,2 c 1.5969,0 3,1.0577 3,2.5 C 12,12.9423 10.5969,14 9,14 7.4031,14 6,12.9423 6,11.5 6,10.0577 7.4031,9 9,9 Z m 0,1 c -1.1645,0 -2,0.7332 -2,1.5 0,0.7668 0.8355,1.5 2,1.5 1.1645,0 2,-0.7332 2,-1.5 C 11,10.7332 10.1645,10 9,10 Z m -1,5 h 1 v 1 h 7 v 1 H 8 Z"
+     id="path5" />
+</svg>

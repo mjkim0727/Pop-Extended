@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733332"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="org.gnome.Shell.Extensions.GSConnect.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="2.2483786"
+     inkscape:cx="-1.3342949"
+     inkscape:cy="137.43237"
+     inkscape:window-width="1846"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#545454;fill-opacity:1;stroke-width:0.529167"
+     id="rect479"
+     width="46.566666"
+     height="59.266666"
+     x="10.583334"
+     y="4.2333331"
+     ry="4.2333331" />
+  <path
+     id="rect11390"
+     style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:bevel"
+     d="m 14.816666,4.2333333 c -2.345262,0 -4.233333,1.8880713 -4.233333,4.2333333 V 59.266666 c 0,2.345264 1.888071,4.233333 4.233333,4.233333 h 38.1 c 2.345262,0 4.233333,-1.888069 4.233333,-4.233333 V 8.4666666 c 0,-2.345262 -1.888071,-4.2333333 -4.233333,-4.2333333 z m 0,0.2645834 h 38.1 c 2.198685,0 3.96875,1.7700646 3.96875,3.9687499 V 58.208333 c 0,2.198685 -1.770065,3.968749 -3.96875,3.968749 h -38.1 c -2.198685,0 -3.96875,-1.770064 -3.96875,-3.968749 V 8.4666666 c 0,-2.1986853 1.770065,-3.9687499 3.96875,-3.9687499 z" />
+  <rect
+     style="fill:#48b9c7;fill-opacity:1;stroke-width:1.90486;stroke-linecap:round"
+     id="rect1185"
+     width="33.866665"
+     height="45.508331"
+     x="16.933332"
+     y="10.583334" />
+</svg>

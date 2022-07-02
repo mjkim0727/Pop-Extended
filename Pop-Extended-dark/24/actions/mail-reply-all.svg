@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg44004"
+   sodipodi:docname="mail-reply-all.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs44008" />
+  <sodipodi:namedview
+     id="namedview44006"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.5736697"
+     inkscape:cx="-13.063251"
+     inkscape:cy="7.8146234"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg44004" />
+  <path
+     color="#bebebe"
+     d="M 0,24 H 24 V 0 H 0 Z"
+     fill="#808080"
+     fill-opacity="0.01"
+     id="path43998"
+     style="stroke-width:1.5" />
+  <path
+     color="#bebebe"
+     d="M 11,5.5 4.531,10 11,14.5 V 12 h 2 c 0.19,0 0.376,0.02 0.559,0.053 0.36,-0.407 0.864,-0.7 1.423,-0.836 l 0.13,-0.432 A 2.514,2.514 0 0 1 16.766,9.117 C 15.921,8.404 14.806,8 13.5,8 H 11 Z m 4.5,7.5 a 0.52,0.52 0 0 0 -0.152,0.027 c 0.224,0.243 0.4,0.516 0.521,0.813 A 0.496,0.496 0 0 0 16,13.5 C 16,13.212 15.788,13 15.5,13 Z"
+     fill="#f2f2f2"
+     style="text-indent:0;text-decoration-line:none;text-transform:none"
+     id="path44000" />
+  <path
+     color="#000000"
+     d="m 17.5,10 c -0.679,0 -1.245,0.454 -1.43,1.072 0.915,0.219 1.64,0.945 1.858,1.86 A 1.496,1.496 0 0 0 17.5,10 Z m -2,2 a 1.5,1.5 0 1 0 0,3 1.5,1.5 0 0 0 0,-3 z m 2.436,2.033 a 2.536,2.536 0 0 1 -0.748,1.262 c 0.486,0.178 0.878,0.418 1.158,0.705 H 20 v -0.5 c 0,0 -0.028,-1.294 -2.064,-1.467 z M 15.5,16 C 13,16 13,17.5 13,17.5 V 18 h 5 v -0.5 c 0,0 0,-1.5 -2.5,-1.5 z"
+     fill="#f2f2f2"
+     style="text-indent:0;text-decoration-line:none;text-transform:none"
+     id="path44002" />
+</svg>
