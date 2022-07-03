@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="qvidcap.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="48.625"
+     inkscape:cx="8.0102828"
+     inkscape:cy="8.0308483"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#9a8f70;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="4.2333331"
+     height="3.175"
+     x="0"
+     y="0.52916664"
+     ry="0.52916664" />
+  <path
+     id="rect6005"
+     style="fill:#000000;stroke-width:0.529167;stroke-linejoin:round;opacity:0.5"
+     d="M 0.52916666 0.52916666 C 0.23600864 0.52916666 0 0.7651753 0 1.0583333 L 0 3.175 C 0 3.468158 0.23600864 3.7041666 0.52916666 3.7041666 L 3.7041666 3.7041666 C 3.9973247 3.7041666 4.2333333 3.468158 4.2333333 3.175 L 4.2333333 1.0583333 C 4.2333333 0.7651753 3.9973247 0.52916666 3.7041666 0.52916666 L 0.52916666 0.52916666 z M 0.66145833 0.79374999 L 3.571875 0.79374999 C 3.7917435 0.79374999 3.96875 0.97075646 3.96875 1.190625 L 3.96875 3.0427083 C 3.96875 3.2625768 3.7917435 3.4395833 3.571875 3.4395833 L 0.66145833 3.4395833 C 0.4415898 3.4395833 0.26458333 3.2625768 0.26458333 3.0427083 L 0.26458333 1.190625 C 0.26458333 0.97075646 0.4415898 0.79374999 0.66145833 0.79374999 z " />
+  <rect
+     style="fill:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;opacity:0.5"
+     id="rect1028"
+     width="3.175"
+     height="2.1166666"
+     x="0.52916664"
+     y="1.0583333" />
+</svg>

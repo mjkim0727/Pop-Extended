@@ -4,6 +4,13 @@
 
 Pop!_OS icons extended version
 
+# Features
+
+* Added third party applications with Pop!_OS Style
+
+* Folder Color Support
+
+
 # Screenshots
 
 * GNOME
