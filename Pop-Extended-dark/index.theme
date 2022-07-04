@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Pop Extended (Dark)
 Comment=Pop!_OS icon theme
-Inherits=Pop,Papirus-Dark,Yaru,Humanity,hicolor
+Inherits=Pop,Papirus-Dark,Yaru,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,72,96,128,256

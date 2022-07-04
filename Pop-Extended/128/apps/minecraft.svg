@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="minecraft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="6.359375"
+     inkscape:cx="57.63145"
+     inkscape:cy="70.525799"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1099"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false" />
+  <defs
+     id="defs1096" />
+  <rect
+     style="opacity:1;fill:#7b736e;fill-opacity:1;stroke-width:1.05833;stroke-linecap:round"
+     id="rect934"
+     width="27.516666"
+     height="27.516666"
+     x="3.175"
+     y="3.175"
+     ry="2.2489583" />
+  <path
+     id="rect1019"
+     style="fill:#73c48f;fill-opacity:1;stroke-width:1.05833;stroke-linejoin:round"
+     d="M 5.4239584 3.175 C 4.1780367 3.175 3.175 4.1780367 3.175 5.4239584 L 3.175 14.2875 L 6.3500001 14.2875 L 6.3500001 17.4625 L 9.5250001 17.4625 L 9.5250001 11.1125 L 12.7 11.1125 L 12.7 7.9375001 L 15.875 7.9375001 L 15.875 14.2875 L 19.05 14.2875 L 19.05 11.1125 L 22.225 11.1125 L 22.225 14.2875 L 25.4 14.2875 L 25.4 11.1125 L 30.691667 11.1125 L 30.691667 5.4239584 C 30.691667 4.1780367 29.68863 3.175 28.442709 3.175 L 5.4239584 3.175 z " />
+  <path
+     id="rect2485"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.529166"
+     d="m 5.4239584,3.1750001 c -1.2459217,0 -2.2489583,1.0030366 -2.2489583,2.2489583 V 28.442709 c 0,1.245922 1.0030366,2.248958 2.2489583,2.248958 H 28.442709 c 1.245922,0 2.248958,-1.003036 2.248958,-2.248958 V 5.4239584 c 0,-1.2459217 -1.003036,-2.2489583 -2.248958,-2.2489583 z M 5.5562501,3.4395834 H 28.310417 c 1.172633,0 2.116667,0.9440345 2.116667,2.1166667 V 27.516667 c 0,1.172633 -0.944034,2.116667 -2.116667,2.116667 H 5.5562501 c -1.1726322,0 -2.1166667,-0.944034 -2.1166667,-2.116667 V 5.5562501 c 0,-1.1726322 0.9440345,-2.1166667 2.1166667,-2.1166667 z" />
+</svg>

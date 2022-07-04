@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="minecraft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="51.4375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#7b736e;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="3.7041667"
+     height="3.7041667"
+     x="0.26458332"
+     y="0.26458332"
+     ry="0.66145831" />
+  <path
+     id="rect2768"
+     style="fill:#73c48f;stroke-width:0.529167;stroke-linejoin:round"
+     d="M 0.92604166 0.26458333 C 0.55959412 0.26458333 0.26458333 0.55959412 0.26458333 0.92604166 L 0.26458333 1.8520833 L 0.79374999 1.8520833 L 0.79374999 2.38125 L 1.3229167 2.38125 L 1.3229167 1.0583333 L 1.8520833 1.0583333 L 1.8520833 1.8520833 L 2.38125 1.8520833 L 2.38125 1.3229167 L 2.9104166 1.3229167 L 2.9104166 1.8520833 L 3.4395833 1.8520833 L 3.4395833 1.3229167 L 3.96875 1.3229167 L 3.96875 0.92604166 C 3.96875 0.55959412 3.6737392 0.26458333 3.3072916 0.26458333 L 0.92604166 0.26458333 z " />
+  <path
+     id="rect1014"
+     style="opacity:0.5;fill:#000000;stroke-width:0.999999"
+     d="M 3.5 1 C 2.115 1 1 2.115 1 3.5 L 1 12.5 C 1 13.885 2.115 15 3.5 15 L 12.5 15 C 13.885 15 15 13.885 15 12.5 L 15 3.5 C 15 2.115 13.885 1 12.5 1 L 3.5 1 z M 4 2 L 12 2 C 13.108 2 14 2.892 14 4 L 14 12 C 14 13.108 13.108 14 12 14 L 4 14 C 2.892 14 2 13.108 2 12 L 2 4 C 2 2.892 2.892 2 4 2 z "
+     transform="scale(0.26458333)" />
+</svg>

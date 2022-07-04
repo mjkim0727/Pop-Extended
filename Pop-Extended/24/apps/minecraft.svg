@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="minecraft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="34.291667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <rect
+     style="opacity:1;fill:#7b736e;fill-opacity:1;stroke-width:0.264583"
+     id="rect1162"
+     width="5.8208332"
+     height="5.8208332"
+     x="0.26458332"
+     y="0.26458332"
+     ry="0.66145831" />
+  <path
+     id="rect2945"
+     style="fill:#73c48f;stroke-width:0.529167;stroke-linejoin:round"
+     d="M 0.92604163,0.26458332 H 5.4239582 c 0.3664479,0 0.6614583,0.29501041 0.6614583,0.66145831 V 2.9104166 H 5.0270833 v -0.79375 h -0.79375 v 0.79375 h -0.79375 v -0.79375 h -0.79375 v -0.79375 h -0.79375 v 1.5875 h -0.79375 v -0.79375 H 0.26458332 V 0.92604163 c 0,-0.3664479 0.29501041,-0.66145831 0.66145831,-0.66145831 z"
+     sodipodi:nodetypes="sssccccccccccccccss" />
+  <path
+     id="rect1161"
+     style="opacity:0.5;fill:#000000;stroke-width:0.264583"
+     d="M 0.92604165 0.26458333 C 0.55959411 0.26458333 0.26458333 0.55959411 0.26458333 0.92604165 L 0.26458333 5.4239582 C 0.26458333 5.7904058 0.55959411 6.0854166 0.92604165 6.0854166 L 5.4239582 6.0854166 C 5.7904058 6.0854166 6.0854166 5.7904058 6.0854166 5.4239582 L 6.0854166 0.92604165 C 6.0854166 0.55959411 5.7904058 0.26458333 5.4239582 0.26458333 L 0.92604165 0.26458333 z M 1.0583333 0.52916666 L 5.2916666 0.52916666 C 5.5848246 0.52916666 5.8208332 0.76517529 5.8208332 1.0583333 L 5.8208332 5.2916666 C 5.8208332 5.5848246 5.5848246 5.8208332 5.2916666 5.8208332 L 1.0583333 5.8208332 C 0.76517529 5.8208332 0.52916666 5.5848246 0.52916666 5.2916666 L 0.52916666 1.0583333 C 0.52916666 0.76517529 0.76517529 0.52916666 1.0583333 0.52916666 z " />
+</svg>
