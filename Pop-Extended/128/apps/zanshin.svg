@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="zanshin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="6.3828125"
+     inkscape:cx="63.921665"
+     inkscape:cy="64"
+     inkscape:window-width="1846"
+     inkscape:window-height="1011"
+     inkscape:window-x="74"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1099"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false" />
+  <defs
+     id="defs1096" />
+  <rect
+     style="opacity:1;fill:#cdcdcd;fill-opacity:1;stroke-width:1.05833;stroke-linecap:round"
+     id="rect934"
+     width="27.516666"
+     height="27.516666"
+     x="3.175"
+     y="3.175"
+     ry="2.2489583" />
+  <path
+     id="rect2485"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.529166"
+     d="m 5.4239584,3.1750001 c -1.2459217,0 -2.2489583,1.0030366 -2.2489583,2.2489583 V 28.442709 c 0,1.245922 1.0030366,2.248958 2.2489583,2.248958 H 28.442709 c 1.245922,0 2.248958,-1.003036 2.248958,-2.248958 V 5.4239584 c 0,-1.2459217 -1.003036,-2.2489583 -2.248958,-2.2489583 z M 5.5562501,3.4395834 H 28.310417 c 1.172633,0 2.116667,0.9440345 2.116667,2.1166667 V 27.516667 c 0,1.172633 -0.944034,2.116667 -2.116667,2.116667 H 5.5562501 c -1.1726322,0 -2.1166667,-0.944034 -2.1166667,-2.116667 V 5.5562501 c 0,-1.1726322 0.9440345,-2.1166667 2.1166667,-2.1166667 z" />
+  <rect
+     style="fill:#424242;fill-opacity:1;stroke-width:1.05833;stroke-linecap:round"
+     id="rect1377"
+     width="23.283333"
+     height="22.225"
+     x="5.2916665"
+     y="5.2916665"
+     ry="0.5291667" />
+  <circle
+     style="opacity:0.2;fill:#67d8e9;fill-opacity:1;stroke-width:1.905"
+     id="path926"
+     cx="16.933334"
+     cy="16.404167"
+     r="9.5249996" />
+  <circle
+     style="opacity:0.4;fill:#67d8e9;fill-opacity:1;stroke-width:3.4396"
+     id="path1138"
+     cx="16.933332"
+     cy="16.404167"
+     r="6.8791666" />
+  <circle
+     style="fill:#67d8e9;fill-opacity:1;stroke-width:1.85208"
+     id="path1330"
+     cx="16.933334"
+     cy="16.404167"
+     r="3.7041667" />
+</svg>
