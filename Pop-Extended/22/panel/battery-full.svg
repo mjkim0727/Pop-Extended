@@ -12,7 +12,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs477" />
+     id="defs477">
+      <style id="current-color-scheme" type="text/css">
+         .ColorScheme-Text { color:#f2f2f2; } .ColorScheme-Highlight { color:#5294e2; }
+      </style>
+  </defs>
   <sodipodi:namedview
      id="namedview475"
      pagecolor="#ffffff"
@@ -41,6 +45,7 @@
      style="stroke-width:1.375" />
   <path
      d="M 11,3 A 2,2 0 0 0 9,5 H 8 A 2,2 0 0 0 6,7 v 9 a 2,2 0 0 0 2,2 h 6 a 2,2 0 0 0 2,-2 V 7 A 2,2 0 0 0 14,5 L 13,5.002 V 5 A 2,2 0 0 0 11,3 Z"
-     fill="#f2f2f2"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
      id="path471" />
 </svg>

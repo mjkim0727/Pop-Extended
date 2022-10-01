@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8"
+   height="8"
+   viewBox="0 0 8 8"
+   version="1.1"
+   id="svg352"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="emblem-added.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview354"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="100.25"
+     inkscape:cx="4"
+     inkscape:cy="4"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg352" />
+  <defs
+     id="defs349" />
+  <rect
+     style="fill:#888888;fill-opacity:1;stroke-width:2"
+     id="rect1756"
+     width="8"
+     height="8"
+     x="0"
+     y="0"
+     ry="1" />
+  <rect
+     style="fill:#48b9c7;fill-opacity:1;stroke-width:2"
+     id="rect1971"
+     width="7"
+     height="7"
+     x="0.5"
+     y="0.5"
+     ry="0.5" />
+  <path
+     id="rect1914"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:2"
+     d="M 1,0 C 0.44600059,0 0,0.44600059 0,1 V 7.0000001 C 0,7.5539995 0.44600059,8 1,8 H 7.0000001 C 7.5539995,8 8,7.5539995 8,7.0000001 V 1 C 8,0.44600059 7.5539995,0 7.0000001,0 Z M 1,1 H 7.0000001 V 7.0000001 H 1 Z" />
+  <path
+     id="rect333"
+     style="fill:#ffffff;stroke-width:1.11803;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.9999998,1 V 3 H 0.99999983 V 5.0000003 H 2.9999998 V 7.0000001 H 4.9999999 V 5.0000003 H 6.9999997 V 3 H 4.9999999 V 1 Z"
+     sodipodi:nodetypes="ccccccccccccc" />
+</svg>
